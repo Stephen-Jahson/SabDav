@@ -1,0 +1,18 @@
+#service{
+color: red;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#img{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+}
+#header1{
+    position: absolute;
+}
+#logo{
+    display:flex;
+}
+.nav-link{
+    border-radius: 50%;
+}
